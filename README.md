@@ -27,6 +27,19 @@
 > <a href="https://docs.google.com/document/d/1OaownB4xobJs6N_7DKrZ-F4kUxpSPN68dR9eb9FLxoo/edit?usp=sharing">Ссылка на проект</a>
 
 
+<p> Проект №2: тестирование веб-приложения для учителей от Skyeng с помощью API</p>
+<p>Что нужно было сделать в дополнении к проекту №1:<p>
+  
+<ol>
+  <li>создать приемочные тест-кейсы </li>
+  <li>создать коллекцию запросов </li>
+  <li>выполнить тестирование API</li>
+  <li>написать отчет о результатах тестирования с графиками, выводами и рекомендациями</li>
+</ol>
+
+<p>Что было сделано в рамках проекта №2:<p>
+
+> <a href="https://docs.google.com/document/d/1OaownB4xobJs6N_7DKrZ-F4kUxpSPN68dR9eb9FLxoo/edit?usp=sharing">Ссылка на проект</a>
 
 
 ## Контактная информация
